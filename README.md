@@ -32,25 +32,25 @@
 - 기간: 2023/9/3(일) ~ 2023/12/24(일)
 - 스터디 멤버: [@yisu-kim](https://github.com/yisu-kim), [@youjin-10](https://github.com/youjin-10), [@Jooeun-K](https://github.com/Jooeun-K), [@jiindev](https://github.com/jiindev), [@Ajihey77](https://github.com/Ajihey77)
 
-| 회차 |   구분    | 목차                | 발표 | 기록 | 날짜                                 | ✅  | 소요 시간 |
-| :--: | :-------: | ------------------- | :--: | :--: | ------------------------------------ | :-: | :-------: |
-|  1   |   react   | [Hooks 1/6]()       |      |      | 2023/9/3 (일)                        | ✅  |           |
-|  2   |   react   | [Hooks 2/6]()       |      |      | 2023/9/10 (일)                       | ✅  |           |
-|  3   |   react   | [Hooks 3/6]()       |      |      | 2023/9/17 (일)                       | ✅  |           |
-|  4   |   react   | [Hooks 4/6]()       |      |      | 2023/9/24 (일)                       | ✅  |           |
-|  5   |   react   | [Hooks 5/6]()       |      |      | 2023/10/1 (일)<br/>\*날짜 변경 예정  | ✅  |           |
-|  6   |   react   | [Hooks 6/6]()       |      |      | 2023/10/8 (일)<br/>\*날짜 변경 예정  | ✅  |           |
-|  7   |   react   | [Components]()      |      |      | 2023/10/15 (일)                      | ✅  |           |
-|  8   |   react   | [APIs]()            |      |      | 2023/10/22 (일)                      | ✅  |           |
-|  9   |   react   | [Directives]()      |      |      | 2023/10/29 (일)                      | ✅  |           |
-|  10  | react-dom | [Components 1/3]()  |      |      | 2023/11/5 (일)                       | ✅  |           |
-|  11  | react-dom | [Components 2/3]()  |      |      | 2023/11/12 (일)                      | ✅  |           |
-|  12  | react-dom | [Components 3/3]()  |      |      | 2023/11/19 (일)                      | ✅  |           |
-|  13  | react-dom | [APIs 1/2]()        |      |      | 2023/11/26 (일)                      | ✅  |           |
-|  14  | react-dom | [APIs 2/2]()        |      |      | 2023/12/3 (일)                       | ✅  |           |
-|  15  | react-dom | [Client APIs]()     |      |      | 2023/12/10 (일)                      | ✅  |           |
-|  16  | react-dom | [Server APIs 1/2]() |      |      | 2023/12/17 (일)                      | ✅  |           |
-|  17  | react-dom | [Server APIs 2/2]() |      |      | 2023/12/24 (일)<br/>\*날짜 변경 예정 | ✅  |           |
+| 회차 |   구분    | 목차                                               | 발표 | 기록 | 날짜                                 | ✅  | 소요 시간 |
+| :--: | :-------: | -------------------------------------------------- | :--: | :--: | ------------------------------------ | :-: | :-------: |
+|  1   |   react   | [Hooks 1/6](react/hooks/README.md)                 |      |      | 2023/9/3 (일)                        | ✅  |           |
+|  2   |   react   | [Hooks 2/6](react/hooks/README.md)                 |      |      | 2023/9/10 (일)                       | ✅  |           |
+|  3   |   react   | [Hooks 3/6](react/hooks/README.md)                 |      |      | 2023/9/17 (일)                       | ✅  |           |
+|  4   |   react   | [Hooks 4/6](react/hooks/README.md)                 |      |      | 2023/9/24 (일)                       | ✅  |           |
+|  5   |   react   | [Hooks 5/6](react/hooks/README.md)                 |      |      | 2023/10/1 (일)<br/>\*날짜 변경 예정  | ✅  |           |
+|  6   |   react   | [Hooks 6/6](react/hooks/README.md)                 |      |      | 2023/10/8 (일)<br/>\*날짜 변경 예정  | ✅  |           |
+|  7   |   react   | [Components](react/components/README.md)           |      |      | 2023/10/15 (일)                      | ✅  |           |
+|  8   |   react   | [APIs](react/apis/README.md)                       |      |      | 2023/10/22 (일)                      | ✅  |           |
+|  9   |   react   | [Directives](react/directives/README.md)           |      |      | 2023/10/29 (일)                      | ✅  |           |
+|  10  | react-dom | [Components 1/3](react-dom/components/README.md)   |      |      | 2023/11/5 (일)                       | ✅  |           |
+|  11  | react-dom | [Components 2/3](react-dom/components/README.md)   |      |      | 2023/11/12 (일)                      | ✅  |           |
+|  12  | react-dom | [Components 3/3](react-dom/components/README.md)   |      |      | 2023/11/19 (일)                      | ✅  |           |
+|  13  | react-dom | [APIs 1/2](react-dom/apis/README.md)               |      |      | 2023/11/26 (일)                      | ✅  |           |
+|  14  | react-dom | [APIs 2/2](react-dom/apis/README.md)               |      |      | 2023/12/3 (일)                       | ✅  |           |
+|  15  | react-dom | [Client APIs](react-dom/client-apis/README.md)     |      |      | 2023/12/10 (일)                      | ✅  |           |
+|  16  | react-dom | [Server APIs 1/2](react-dom/server-apis/README.md) |      |      | 2023/12/17 (일)                      | ✅  |           |
+|  17  | react-dom | [Server APIs 2/2](react-dom/server-apis/README.md) |      |      | 2023/12/24 (일)<br/>\*날짜 변경 예정 | ✅  |           |
 
 ## 진행 방법
 
