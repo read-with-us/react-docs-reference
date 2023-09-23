@@ -22,3 +22,9 @@
 
 - [useEffect](./useEffect.md)
 - [useLayoutEffect](./useLayoutEffect.md)
+- [useInsertionEffect](./useInsertionEffect.md)
+
+## Performance Hooks
+
+- [useMemo](./useMemo.md)
+- [useCallback](./useCallback.md)
