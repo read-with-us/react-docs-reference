@@ -28,3 +28,15 @@
 
 - [useMemo](./useMemo.md)
 - [useCallback](./useCallback.md)
+- [useTransition](./useTransition.md)
+- [useDeferredValue](./useDeferredValue.md)
+
+## Resource Hooks
+
+- [use](./use.md)
+
+## Other Hooks
+
+- [useDebugValue](./useDebugValue.md)
+- [useId](./useId.md)
+- [useSyncExternalStore](./useSyncExternalStore.md)
