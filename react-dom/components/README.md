@@ -8,7 +8,7 @@
 
 ## 폼 컴포넌트
 
-- [<input>](./input.md)
-- [<textarea>](./textarea.md)
+- [\<input>](./input.md)
+- [\<textarea>](./textarea.md)
 
 ## 모든 HTML 컴포넌트
