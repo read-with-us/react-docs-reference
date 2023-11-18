@@ -6,6 +6,8 @@
 
 ## 공통 컴포넌트
 
+- [Common components](./common_components.md)
+
 ## 폼 컴포넌트
 
 - [\<input>](./input.md)
