@@ -14,3 +14,4 @@
 1. >대부분의 경우 flushSync를 사용하지 않을 수 있으므로 최후의 수단으로 사용하세요.
    - Q: flushSync를 사용할만한 다른 경우가 있을까요? 아니면 사용해보신 분이 계신가요?
    - A: 학습하기에 예제, 아이템을 추가하는 시점이랑 스크롤하는 시점을 맞추기 위해 사용하는 케이스 관련링크 : (https://ko.react.dev/learn/manipulating-the-dom-with-refs#flushing-state-updates-synchronously-with-flush-sync)
+   - A: 상당히 조심히 사용해야할것같다 계속 최후의 수단으로 사용하라고 하는걸 보니...
