@@ -1,4 +1,4 @@
-# createPortal
+# createPortal 
 
 ## createPortal
 1. >  자식은 부모 트리가 제공하는 context에 액세스할 수 있으며 이벤트는 여전히 React 트리에 따라 자식에서 부모로 버블링됩니다.
