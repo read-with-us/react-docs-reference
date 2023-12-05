@@ -6,3 +6,12 @@
 
 - [renderToPipeableStream](./renderToPipeableStream.md)
 - [renderToStaticNodeStream](./renderToStaticNodeStream.md)
+
+## Server APIs for Web Streams
+
+- [renderToReadableStream](./renderToReadableStream.md)
+
+## Server APIs for non-streaming environments
+
+- [renderToString](./renderToString.md)
+- [renderToStaticMarkup](./renderToStaticMarkup.md)
