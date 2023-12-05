@@ -4,4 +4,5 @@
 
 ## Client APIs
 
+- [createRoot](./createRoot.md)
 - [hydrateRoot](./hydrateRoot.md)
