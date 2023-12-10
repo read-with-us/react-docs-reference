@@ -48,7 +48,7 @@
 |  12  | react-dom | [Components 3/3](react-dom/components/README.md)                                                          |   [@Jooeun-K](https://github.com/Jooeun-K)   |   [@cansoup](https://github.com/cansoup)   | 2023/11/19 (일)                    | ✅  |          60분 독서<br/>10분 휴식<br/>40분 토의           |
 |  13  | react-dom | [APIs](react-dom/apis/README.md)<br/>[Client APIs 1/2](react-dom/client-apis/README.md)                   |  [@youjin-10](https://github.com/youjin-10)  |  [@Ajihey77](https://github.com/Ajihey77)  | 2023/11/26 (일)                    | ✅  |          50분 독서<br/>10분 휴식<br/>30분 토의           |
 |  14  | react-dom | [Client APIs 2/2](react-dom/client-apis/README.md)<br/>[Server APIs 1/2](react-dom/server-apis/README.md) |   [@yisu-kim](https://github.com/yisu-kim)   |   [@jiindev](https://github.com/jiindev)   | 2023/12/3 (일)                     | ✅  |          50분 독서<br/>10분 휴식<br/>30분 토의           |
-|  15  | react-dom | [Server APIs 2/2](react-dom/server-apis/README.md)                                                        |   [@Ajihey77](https://github.com/Ajihey77)   |  [@Jooeun-K](https://github.com/Jooeun-K)  | 2023/12/10 (일)                    | ✅  |           35분 독서<br/>5분 휴식<br/>20분 토의           |
+|  15  | react-dom | [Server APIs 2/2](react-dom/server-apis/README.md)                                                        |   [@Ajihey77](https://github.com/Ajihey77)   |  [@Jooeun-K](https://github.com/Jooeun-K)  | 2023/12/10 (일)                    | ✅  |   35분 독서<br/>5분 휴식<br/>20분 토의<br/>(소감 공유)   |
 
 ## 진행 방법
 
